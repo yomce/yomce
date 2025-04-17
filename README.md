@@ -2,22 +2,40 @@
 
 <br />
 
-안녕하세요! 현재 알고리즘과 개발을 공부중인 코린이입니다 :-)
 
-**About me**
+## **About me**
+
+- 안녕하세요! 현재 알고리즘과 개발을 공부중인 코린이입니다 :-)
 
 - 🌳 현재 크래프톤 정글에서 몰입 중
 
-- 📈 자료구조와 컴퓨터 시스템에 관심이 많아요
-
-- ❤️ 고양이와 GitHub를 사랑합니다
+- 👩🏻‍💻 자료구조와 컴퓨터 시스템에 관심이 많아요
 
 - 💬 컨택해주세요 :) [here](mailto:kky032911@gmail.com)
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+## Skills
+
+### Frontend
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+
+### DevOps & Tools
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+
+### IDE & Group Tools
+<code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" alt="slack" src="https://raw.githubusercontent.com/github/explore/main/topics/slack/slack.png"></code>
+<code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
+
+### CS & Backend
+<code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yomce's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
