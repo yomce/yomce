@@ -1,6 +1,4 @@
-<p align="center"><a href="https://yomce.github.io"><img width="80%" alt="Hello, I'm Yomce. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+<p align="center"><a href="https://yomce.github.io"><img width="80%" alt="Hello, I'm Yomce. I love building things with code :)" src="./assets/gh-readme-header.png" /></a></p>
 
 
 ## **About me**
@@ -43,9 +41,7 @@
 
 #### Top Repositories
 
-<a href="https://github.com/yomce/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yomce&repo=github-readme-stats&theme=buefy" />
-</a>
+
 <a href="https://github.com/yomce/yomce.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yomce&repo=yomce.github.io&theme=buefy" />
 </a>
