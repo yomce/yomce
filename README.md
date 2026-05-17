@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://yomce.github.io">
     <img width="80%" alt="Hello, I'm Yomce. I love building things with code :)" src="./assets/gh-readme-header.png" />
   </a>
-</p>
+</p> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Yomce's+GitHub;I'm+waiting+for+your+feedback)](https://yomce.github.io)
 
